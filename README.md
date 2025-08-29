@@ -9,6 +9,7 @@ pkg install git
 2. Clone this repo
 ```
 git clone https://github.com/Ristan1/tembakvideoku
+```
 cd myxl-cli
 ```
 3. Install dependencies
